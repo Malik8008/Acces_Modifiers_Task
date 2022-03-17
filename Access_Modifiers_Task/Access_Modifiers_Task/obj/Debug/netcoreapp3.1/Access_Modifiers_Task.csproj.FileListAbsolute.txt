@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\obj\Debug\netcoreapp3.1\Access_Modifiers_Task.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\obj\Debug\netcoreapp3.1\Access_Modifiers_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\obj\Debug\netcoreapp3.1\Access_Modifiers_Task.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\obj\Debug\netcoreapp3.1\Access_Modifiers_Task.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\obj\Debug\netcoreapp3.1\Access_Modifiers_Task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\bin\Debug\netcoreapp3.1\Access_Modifiers_Task.exe
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\bin\Debug\netcoreapp3.1\Access_Modifiers_Task.deps.json
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\bin\Debug\netcoreapp3.1\Access_Modifiers_Task.runtimeconfig.json
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\bin\Debug\netcoreapp3.1\Access_Modifiers_Task.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\bin\Debug\netcoreapp3.1\Access_Modifiers_Task.dll
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\bin\Debug\netcoreapp3.1\Access_Modifiers_Task.pdb
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\obj\Debug\netcoreapp3.1\Access_Modifiers_Task.dll
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\obj\Debug\netcoreapp3.1\Access_Modifiers_Task.pdb
+C:\Users\Admin\source\repos\Access_Modifiers_Task\Access_Modifiers_Task\obj\Debug\netcoreapp3.1\Access_Modifiers_Task.genruntimeconfig.cache
